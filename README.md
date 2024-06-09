@@ -2,7 +2,7 @@
 
 Visualizar y probar los componentes existentes dentro del sitio. 
 
-    Describe tres componentes que te llamaron la atención para su uso en un proyecto.
+  Describe tres componentes que te llamaron la atención para su uso en un proyecto.
 
 
 ## PrimeNGV2
