@@ -1,4 +1,11 @@
-# PrimeNGV2
+# PrimeNG
+
+Visualizar y probar los componentes existentes dentro del sitio. 
+
+    Describe tres componentes que te llamaron la atención para su uso en un proyecto.
+
+
+## PrimeNGV2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
